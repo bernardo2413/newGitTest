@@ -10,4 +10,5 @@ int main()
     num++;
     printf("%d\n",num);
   }
+  printf("LOOP COMPLETE\n");
 }
